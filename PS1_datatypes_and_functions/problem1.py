@@ -1,5 +1,5 @@
 # 
-# ps1pr2.py - Problem Set 1, Problem 1
+# problem1.py - Problem Set 1, Problem 1
 #
 # Indexing and slicing puzzles
 #
