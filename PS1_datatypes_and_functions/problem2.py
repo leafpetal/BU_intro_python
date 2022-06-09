@@ -1,5 +1,5 @@
 # 
-# problem2.py - Problem Set 1, Problem 2
+# ps1pr2.py - Problem Set 1, Problem 2
 #
 # Functions with numeric inputs
 #
