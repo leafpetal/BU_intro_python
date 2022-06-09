@@ -1,4 +1,4 @@
-# problem3.py - Problem Set 1, Problem 3
+# ps1pr3.py - Problem Set 1, Problem 3
 #
 # Functions on strings and lists, part 1
 
