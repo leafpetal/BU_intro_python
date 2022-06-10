@@ -1,5 +1,5 @@
 # 
-# ps2pr3.py - Problem Set 2, Problem 3
+# recursion2.py - Problem Set 2, Problem 3
 #
 # Fun with recursion, part 2
 #
