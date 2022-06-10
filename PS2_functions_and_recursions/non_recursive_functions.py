@@ -1,5 +1,5 @@
 # 
-# ps2pr1.py - Problem Set 2, Problem 1
+# non_recursive_functions.py - Problem Set 2, Problem 1
 #
 # More practice writing non-recursive functions
 #
