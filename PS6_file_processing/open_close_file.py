@@ -28,7 +28,7 @@ def helper(city, st_abb, filename):
 def main():
     """ the main user-interaction loop
     """
-    filename = str(input('Enter the name of data file: '))
+    filename = str(input('Enter the name of data file: ')) # cities.txt
     print()
     #file = open(str(filename))
     #count = 0
