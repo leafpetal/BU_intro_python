@@ -1,5 +1,5 @@
 # 
-# ps3pr1.py - Problem Set 3, Problem 1
+# algorithm_design1.py - Problem Set 3, Problem 1
 #
 # Algorithm design
 #
