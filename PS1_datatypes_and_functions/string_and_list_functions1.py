@@ -1,5 +1,5 @@
 #
-# ps1pr3.py - Problem Set 1, Problem 3
+# string_and_list_functions1.py - Problem Set 1, Problem 3
 #
 # Functions on strings and lists, part 1
 #
