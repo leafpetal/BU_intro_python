@@ -1,5 +1,5 @@
 #
-# connect_four_player_class.py (Problem Set 9, Problem 2)
+# connect_four_player_class.py - Problem Set 9, Problem 2
 #
 # A Connect-Four Player class 
 #  
