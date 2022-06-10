@@ -1,5 +1,5 @@
 #
-# ps3pr2.py - Problem Set 3, Problem 2       
+# caesar_cipher.py - Problem Set 3, Problem 2       
 #
 # Caesar cipher / decipher
 #
